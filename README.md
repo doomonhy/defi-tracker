@@ -4,6 +4,11 @@
 * cardano-dbsync (13.6.0.4)
 * python3 (3.12.3)
 
+##
+- [ ] Make find_txs.py always run on the background
+- [ ] Save to tx and data to a sqlite db instead of csv file
+
+
 ## To-Do Rewards Tracker
 - [x] Indigo Protocol INDY Stake - **fix INDY amounts for txs with outputs containing native assets**
 - [ ] Liqwid LQ Stake
@@ -16,5 +21,4 @@
 - [ ] Angels ADA Airdrop
 - [ ] Sundae Rewards
 
-- [ ] Make find_txs.py always run on the background
-- [ ] Save to tx and data to a sqlite db instead of csv file 
+
