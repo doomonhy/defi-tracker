@@ -1,1 +1,17 @@
-# defi-tracker
+## Fully synced requirements and tested with:
+
+* cardano-node (10.1.4)
+* cardano-dbsync (13.6.0.4)
+* python3 (3.12.3)
+
+## To-Do Rewards Tracker
+- [x] Indigo Protocol INDY Stake - **fix INDY amounts for txs with outputs containing native assets**
+- [ ] Liqwid LQ Stake
+- [ ] Book.io / Stuff.io (airdrop Bible NFT holder)
+- [ ] Genius Yield Vault Stake
+- [ ] Minswap MIN Stake
+- [ ] Fluid Tokens FLDT Stake
+- [ ] World Mobile WMTx Stake
+- [ ] Iagon IAG Stake
+- [ ] Angels ADA Airdrop
+- [ ] Sundae Rewards
