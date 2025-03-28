@@ -15,3 +15,6 @@
 - [ ] Iagon IAG Stake
 - [ ] Angels ADA Airdrop
 - [ ] Sundae Rewards
+
+- [ ] Make find_txs.py always run on the background
+- [ ] Save to tx and data to a sqlite db instead of csv file 
