@@ -10,7 +10,8 @@
 
 
 ## To-Do Rewards Tracker
-- [x] Indigo Protocol INDY Stake - **fix INDY amounts for txs with outputs containing native assets**
+- [X] Indigo Protocol INDY Stake - ~~fix INDY amounts for txs with outputs containing native assets~~
+- [X] Angels ADA Airdrop - todo: add ADA/USD and ADA/ANGELS value per tx
 - [ ] Liqwid LQ Stake
 - [ ] Book.io / Stuff.io (airdrop Bible NFT holder)
 - [ ] Genius Yield Vault Stake
@@ -18,7 +19,6 @@
 - [ ] Fluid Tokens FLDT Stake
 - [ ] World Mobile WMTx Stake
 - [ ] Iagon IAG Stake
-- [ ] Angels ADA Airdrop
 - [ ] Sundae Rewards
 
 
