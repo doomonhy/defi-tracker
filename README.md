@@ -20,5 +20,5 @@
 - [ ] World Mobile WMTx Stake
 - [ ] Iagon IAG Stake
 - [ ] Sundae Rewards
-
+- [ ] SHEN Holder (or LP) ADA Airdrop
 
