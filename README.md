@@ -18,7 +18,7 @@
 - [ ] Minswap MIN Stake
 - [ ] Fluid Tokens FLDT Stake
 - [ ] World Mobile WMTx Stake
-- [ ] Iagon IAG Stake
+- [ ] Iagon IAG Stake (ADA and IAG)
 - [ ] Sundae Rewards
 - [ ] SHEN Holder (or LP) ADA Airdrop
 
